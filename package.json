@@ -1,0 +1,26 @@
+{
+  "name": "aulascria",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rafael",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "typescript-require": "^0.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafael808985/modelo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rafael808985/modelo/issues"
+  },
+  "homepage": "https://github.com/rafael808985/modelo#readme",
+  "description": ""
+}
